@@ -48,7 +48,11 @@ https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-
 
 
 ## Schulungsunterlage
+
 https://learn.microsoft.com/de-de/training/courses/ms-721t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=580710#study-guide
+
+
+
 
 
 
