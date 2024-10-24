@@ -46,7 +46,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-
 ## Test für Donnerstag
 https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-communications-systems-engineer/practice/assessment?assessment-type=practice&assessmentId=78&practice-assessment-type=certification
 
-marketplace.measureup.com/login
+
 
 
 
