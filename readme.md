@@ -23,19 +23,10 @@ Modulw 6 : https://learn.microsoft.com/en-us/training/modules/configure-deploy-d
 
 https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-communications-systems-engineer/?practice-assessment-type=certification
 
-### Brot ;)
 
-500g Roggenvolkornmehl
-150g Sonnenblumenkerne / Pinienkerne /Sesam  - Mischen wie man will
-2TL Salz
+## Test für Donnerstag
+https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-communications-systems-engineer/practice/assessment?assessment-type=practice&assessmentId=78&practice-assessment-type=certification
 
-500g Wasser Esslöffel Essig , Würfel Frischhefe 
 
-Hefe zerbröseln (ganzer würfel) und in Wasser auflösen
 
-Alles andere vermischen und dann Wasser hinzufügen. Es wird ein feuchter gießbarer Teig.
-
-In ein 4 eckiges Backblech (Backpapier) reinfließen lassen. Glatt streichen.
-
-200 Grad Ober Unterhitze mit Befeuchtung(Automatische Dampfstöße(bei Miele)) (100ml Wasser) ohne Vorwärmen 65 Minuten
 
