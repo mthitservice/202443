@@ -47,5 +47,9 @@ https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-
 https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-communications-systems-engineer/practice/assessment?assessment-type=practice&assessmentId=78&practice-assessment-type=certification
 
 
+## Schulungsunterlage
+https://learn.microsoft.com/de-de/training/courses/ms-721t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=580710#study-guide
+
+
 
 
