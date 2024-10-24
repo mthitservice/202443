@@ -52,7 +52,8 @@ https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-
 https://learn.microsoft.com/de-de/training/courses/ms-721t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=580710#study-guide
 
 
-
+## Erfolg
+https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=580710&redeem=6LLVPY
 
 
 
